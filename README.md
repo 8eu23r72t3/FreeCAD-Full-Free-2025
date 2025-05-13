@@ -72,6 +72,9 @@ FreeCAD 2025 Full Version Download – Advanced 3D Modeling and Design Software
 - Community Forums and User Groups  
 - Regular Updates and Bug Fixes
 
+# Usage examples
+![partdesign](https://github.com/user-attachments/assets/e633f3a4-fe32-4e8c-8b75-c48a000d244a)
+
 
 # Frequently Asked Questions (FAQ) ❓
 
